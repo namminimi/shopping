@@ -23,7 +23,7 @@ Html, Css, JavaScript, PHP, MySQL
 - ID찾기, PW찾기
 - session함수를 사용하여 로그인 한 id값 세션스토리지에 저장
 
-### 회원가입 <a href="https://github.com/namminimi/ice-cream/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C1(%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)" >상세보기 - WIKI 이동</a>
+### 회원가입 <a href="https://github.com/namminimi/shopping/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C1(%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)" >상세보기 - WIKI 이동</a>
 - ID 중복 체크
 - password_hash 사용하여 비밀번호 암호화
 - 정규표현식 사용하여 사용자가 알맞는 값을 입력하게 메세지(알림) 출력
