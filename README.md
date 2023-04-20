@@ -19,7 +19,7 @@ Html, Css, JavaScript, PHP, MySQL
 -password: admin
 
 ## 📌 주요 기능
-### 로그인 <a href="https://github.com/namminimi/ice-cream/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C2(%EB%A1%9C%EA%B7%B8%EC%9D%B8)" >상세보기 - WIKI 이동</a>
+### 로그인 <a href="https://github.com/namminimi/shopping/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C2(%EB%A1%9C%EA%B7%B8%EC%9D%B8)" >상세보기 - WIKI 이동</a>
 - ID찾기, PW찾기
 - session함수를 사용하여 로그인 한 id값 세션스토리지에 저장
 
@@ -30,23 +30,23 @@ Html, Css, JavaScript, PHP, MySQL
 
 ### 로그아웃
 
-### 상품 등록 <a href="https://github.com/namminimi/ice-cream/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C3(%EC%83%81%ED%92%88-%EB%93%B1%EB%A1%9D)" >상세보기 - WIKI 이동</a>
+### 상품 등록 <a href="https://github.com/namminimi/shopping/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C3(%EC%83%81%ED%92%88)#%EF%B8%8F-%EC%83%81%ED%92%88%EC%B6%94%EA%B0%80" >상세보기 - WIKI 이동</a>
 - 관리자id로만 접근 가능
 - 이미지 업로드
 
-### 상품리스트 페이지 <a href="https://github.com/namminimi/ice-cream/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C4(%EC%83%81%ED%92%88)" >상세보기 - WIKI 이동</a>
+### 상품리스트 페이지 <a href="https://github.com/namminimi/shopping/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C3(%EC%83%81%ED%92%88)#%EF%B8%8F-%EC%83%81%ED%92%88%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
 - 각 의류상품 종류 클릭시 관련 종류 의류 리스트 출력
 
-### 상품 상세보기 페이지 <a href="https://github.com/namminimi/ice-cream/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C4(%EC%83%81%ED%92%88)#%EF%B8%8F-%EC%83%81%ED%92%88-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0" >상세보기 - WIKI 이동</a>
+### 상품 상세보기 페이지 <a href="https://github.com/namminimi/shopping/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C3(%EC%83%81%ED%92%88)#%EF%B8%8F-%EC%83%81%ED%92%88-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0" >상세보기 - WIKI 이동</a>
 - 상품에 대한 상세 내용
 - 장바구니 담기
 - 해당 의류 상품 종류의 리뷰들 출력
 
-### 장바구니 페이지 <a href="https://github.com/namminimi/ice-cream/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C6(%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)" >상세보기 - WIKI 이동</a>
+### 장바구니 페이지 <a href="https://github.com/namminimi/shopping/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C4(%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)" >상세보기 - WIKI 이동</a>
 - 상품 개별 선택 체크박스 클릭시 총 상품 금액 표시
 - 개별 선택 삭제
 
-### 리뷰 페이지 <a href="https://github.com/namminimi/ice-cream/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C7(%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD)" >상세보기 - WIKI 이동</a>
+### 리뷰 페이지 <a href="https://github.com/namminimi/shopping/wiki/%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C5(%EB%A6%AC%EB%B7%B0)" >상세보기 - WIKI 이동</a>
 - 글 추가, 수정, 삭제 
 - 페이징 기능
 - 상세보기
